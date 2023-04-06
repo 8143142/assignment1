@@ -22,6 +22,6 @@ public class problem2 {
             arr[i] = scanner.nextInt();
         }
         double average = calculateAverage(size, arr);
-        System.out.println("The average is: " + average);
+        System.out.println(" " + average);
     }
 }
